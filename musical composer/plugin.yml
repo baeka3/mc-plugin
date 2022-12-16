@@ -1,6 +1,0 @@
-name: musical composer
-main: com.musicalcomposer.ltj1105.pkg.Main
-version: 1.0
-commands:
-    Test:
-        description: test command
